@@ -1,3 +1,5 @@
 # repos
 
-Projeto finalizado.
+utilizando datagridview de: https://github.com/davidegironi/advanceddatagridview 
+
+Projeto encerrado.
